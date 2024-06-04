@@ -1,0 +1,10 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/motd.legal-displayed
+.gitconfig
+.profile
+.ssh/authorized_keys
+.ssh/known_hosts
+.sudo_as_admin_successful
+.viminfo
